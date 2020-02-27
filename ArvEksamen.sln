@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvEksamen", "ArvEksamen\ArvEksamen.csproj", "{AA1B3CF8-97E3-4B82-B3E9-B73FF81C45BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1B3CF8-97E3-4B82-B3E9-B73FF81C45BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1B3CF8-97E3-4B82-B3E9-B73FF81C45BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1B3CF8-97E3-4B82-B3E9-B73FF81C45BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1B3CF8-97E3-4B82-B3E9-B73FF81C45BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6608F419-66C0-46B6-905C-789261FE411A}
+	EndGlobalSection
+EndGlobal
